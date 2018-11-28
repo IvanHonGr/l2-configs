@@ -1698,7 +1698,7 @@
       <!--Raid Boss - Level 80-->
     </skills>
     <absorblist>
-      <absorb chance="7" min_level="12" max_level="13" type="PARTY_RANDOM"/>
+      <absorb chance="40" min_level="12" max_level="13" type="PARTY_ALL"/>
     </absorblist>
     <attributes>
       <defence attribute="fire" value="0"/>
@@ -2493,7 +2493,7 @@
       <!--Raid Boss - Level 71-->
     </skills>
     <absorblist>
-      <absorb chance="4" min_level="10" max_level="12" type="PARTY_ALL"/>
+      <absorb chance="60" min_level="10" max_level="12" type="PARTY_ALL"/>
     </absorblist>
     <attributes>
       <attack attribute="unholy" value="0"/>
@@ -3328,7 +3328,7 @@
       <!--Raid Boss - Level 68-->
     </skills>
     <absorblist>
-      <absorb chance="7" min_level="12" max_level="13" type="PARTY_ONE"/>
+      <absorb chance="40" min_level="12" max_level="13" type="PARTY_ALL"/>
     </absorblist>
     <attributes>
       <attack attribute="unholy" value="0"/>
@@ -3430,7 +3430,7 @@
       <!--Raid Boss - Level 78-->
     </skills>
     <absorblist>
-      <absorb chance="5" min_level="10" max_level="13" type="PARTY_RANDOM"/>
+      <absorb chance="30" min_level="10" max_level="13" type="PARTY_ALL"/>
     </absorblist>
     <attributes>
       <attack attribute="unholy" value="0"/>

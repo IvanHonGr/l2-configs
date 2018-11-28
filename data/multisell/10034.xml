@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+    <!-- A grade recipes-->
+	<item id="1">
+		<production id="6335" count="1"/>
+		<ingredient id="57" count="1500000"/>
+	</item>
+	<item id="2">
+		<production id="6337" count="1"/>
+		<ingredient id="57" count="1500000"/>
+	</item>
+	<item id="3">
+		<production id="6339" count="1"/>
+		<ingredient id="57" count="1500000"/>
+	</item>
+</list>
